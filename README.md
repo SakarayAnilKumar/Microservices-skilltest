@@ -63,6 +63,29 @@ This document provides details on testing various services after running the `do
    ```
    docker-compose up
    ```
+
 2. Once the services are running, use the above endpoints to verify the functionality.
 
 Happy testing!
+
+## Task-outcomes
+
+### Docker compose output
+
+Docker-compose output
+
+
+
+### Testing snippet
+
+Users testing
+
+Orders testing
+
+Product testing
+
+Gateway API testing
+
+
+### Compose down
+
