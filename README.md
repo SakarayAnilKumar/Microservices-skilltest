@@ -112,6 +112,9 @@ docker-compose down
 
 No containers running.
 
+### Troubleshooting
+
+Used docker logs <containername> to find the issue as I was using npm start to run the application then I came to know to use node app.js
 
 
 
